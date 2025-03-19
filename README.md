@@ -1,3 +1,13 @@
+# Instasany
+Desenvolvi do ZERO ao DEPLOY uma Landing Page utilizando Next.js, TailwindCSS e GSAP, com o objetivo de criar uma interface dinâmica, responsiva e visualmente atraente. O projeto faz uso do Next.js para otimização na renderização das páginas, do TailwindCSS para a criação de um design responsivo e escalável, e do GSAP para implementar animações avançadas, garantindo uma experiência de usuário fluida e interativa. A aplicação foi completamente projetada, desenvolvida, testada e implantada, evidenciando a minha capacidade de construir soluções web modernas e eficientes. O deploy foi realizado na Vercel, e pode ser acessado através do link: https://instasany-d4hvbbi1b-maathsilvas-projects.vercel.app/
+
+# Imagens do Projeto:
+
+![instasany01](https://github.com/user-attachments/assets/9d7d0a1c-5fbe-4c8c-a378-7d6e01f83791)
+
+![instasany02](https://github.com/user-attachments/assets/6b194ff6-8792-455f-bde4-41e2a4506fe6)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
